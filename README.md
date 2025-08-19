@@ -1,3 +1,5 @@
+download and open for the diagram to make sense
+
 Raspberry Pi Metal Detector with Telegram Alerts & Buzzer
 This project uses a metal detector sensor with a Raspberry Pi to detect metal objects.
 When metal is detected:
